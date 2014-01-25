@@ -1,4 +1,4 @@
-#include <interpp.h>
+#include <Interpp.h>
 #include <iostream>
 #include <stdio.h>
 

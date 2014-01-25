@@ -24,5 +24,5 @@ install(
 
 install(
     FILES ${hdrs}
-    DESTINATION include/interpp
+    DESTINATION include
 )
