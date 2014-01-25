@@ -1,4 +1,4 @@
-project(interpp_example)
+project(InterppExample)
 
 include_directories(
     ${CMAKE_SOURCE_DIR}/include
@@ -13,5 +13,5 @@ add_executable(
 target_link_libraries(
     ${PROJECT_NAME}
 
-    interpp
+    Interpp
 )
